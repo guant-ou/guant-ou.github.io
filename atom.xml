@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guant-ou.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-18T02:29:49.966Z</updated>
+    <title>不知道</title>
+    <updated>2021-02-18T02:31:09.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guant-ou.github.io"/>
     <link rel="self" href="https://guant-ou.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>曹儿子</subtitle>
     <logo>https://guant-ou.github.io/images/avatar.png</logo>
     <icon>https://guant-ou.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 不知道</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://guant-ou.github.io/post/hello-gridea/</id>
